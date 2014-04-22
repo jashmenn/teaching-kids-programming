@@ -2,10 +2,6 @@
 
 The goal of this document is to collect resources for teaching kids programming.
 
-There are many attempts to provide structure for kids who want to learn programming, but my experience is that there generally isn't a good curriculum to send someone who wants to teach a child how to program.
-
-The core issue, I believe, is that almost all of these resources progress through concepts too quickly.
-
 This document aims to:
 
 1. Be a resource for someone who desires to teach kids (or anyone, really) programming
@@ -13,6 +9,18 @@ This document aims to:
 
 * WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/jashmenn/bitcoin-reading-list/issues)
 
+### Soapbox
+
+There are many attempts to provide structure for kids who want to learn programming, but my experience is that there generally isn't a good curriculum to send someone who wants to teach a child how to program.
+
+The core issue, I believe, is that almost all of these resources:
+
+* progress through concepts too quickly 
+* assume a parent / teacher present that already knows how to program
+
+Visual programming only helps with syntax - the logic is just as difficult. A useful teaching tool will teach the mental models and concepts along with the actual programming.
+
+Another trend I'm noticing is that all of my nephews/nieces (age 8-15) want to build *games* for their *phone*. All of them have iPhones and none of them have $99 for developer tools.
 
 ### Mobile Apps
 #### Programming
@@ -40,6 +48,10 @@ This document aims to:
 * [Play My Code](http://www.playmycode.com/)
 * [Kodu Game Lab](http://www.kodugamelab.com/)
 * [Tynker](http://www.tynker.com/)
+* [jsdares](http://jsdares.com/)
+
+#### Visual Programming
+* [Stencyl](http://www.stencyl.com/) `Mac`
 
 #### Traditional Environment
 * [Construct 2](https://www.scirra.com/construct2)
@@ -47,12 +59,20 @@ This document aims to:
 ### Programming Environments
 * [Scratch](http://scratch.mit.edu/)
 * [Hackety Hack](http://hackety.com/)
+* [Kids Ruby](http://www.kidsruby.com/)
+* [Alice](http://www.alice.org/index.php)
+* [Greenfoot](http://www.greenfoot.org/door)
 
 ### Robotics
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/)
 
-### Logo-like Interactive Websites
-* [Turtle Academy](http://turtleacademy.com/)
+### Web Development
+* [Dash](https://dash.generalassemb.ly/)
+
+### Logo-like
+* [Turtle Academy](http://turtleacademy.com/) `Web`
+* [ASCLogo](http://www.alancsmith.co.uk/) `Mac`
+* [Kojo](http://www.kogics.net/sf:kojo) `Desktop Java`
 
 ### Programs and Schools
 * [CodeNow](http://codenow.org/)
