@@ -1,0 +1,77 @@
+## Teaching Kids Programming
+
+The goal of this document is to collect resources for teaching kids programming.
+
+There are many attempts to provide structure for kids who want to learn programming, but my experience is that there generally isn't a good curriculum to send someone who wants to teach a child how to program.
+
+The core issue, I believe, is that almost all of these resources progress through concepts too quickly.
+
+This document aims to:
+
+1. Be a resource for someone who desires to teach kids (or anyone, really) programming
+2. To serve as a reference of prior art in preparation for a new curriculum
+
+* WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/jashmenn/bitcoin-reading-list/issues)
+
+
+### Mobile Apps
+#### Programming
+* [Hopscotch](https://www.gethopscotch.com/) `iOS`
+* [ScratchJr](http://scratchjr.org/) `iOS`
+
+#### Logic and Conceptual
+* [Cargo-Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) `iOS`
+* [Move the Turtle](https://itunes.apple.com/us/app/move-turtle.-programming-for/id509013878?mt=8) `iOS`
+* [Bee-Bot](https://itunes.apple.com/us/app/bee-bot/id500131639?mt=8) `iOS`
+* [Kodable](https://itunes.apple.com/us/app/kodable/id577673067?mt=8) `iOS`
+
+### Interactive Programming Teaching
+* [Khan Academy](https://www.khanacademy.org/computing/cs)
+* [Codecademy](http://www.codecademy.com/)
+* [CodeCombat](https://codecombat.com/)
+
+### Pre-programming Concepts
+* [Robot Turtles: Physical board game for little programmers](https://www.kickstarter.com/projects/danshapiro/robot-turtles-the-board-game-for-little-programmer)
+* [Primo - Teaching programming logic to children age 4 to 7](https://www.kickstarter.com/projects/1039674461/primo-teaching-programming-logic-to-children-age-4)
+* [Light-Bot 2 Online Flash Game](http://armorgames.com/play/6061/light-bot-20/)
+
+### Game Creation Frameworks
+#### Web Based Editors
+* [Play My Code](http://www.playmycode.com/)
+* [Kodu Game Lab](http://www.kodugamelab.com/)
+* [Tynker](http://www.tynker.com/)
+
+#### Traditional Environment
+* [Construct 2](https://www.scirra.com/construct2)
+
+### Programming Environments
+* [Scratch](http://scratch.mit.edu/)
+* [Hackety Hack](http://hackety.com/)
+
+### Robotics
+* [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/)
+
+### Logo-like Interactive Websites
+* [Turtle Academy](http://turtleacademy.com/)
+
+### Programs and Schools
+* [CodeNow](http://codenow.org/)
+* [CodeHS](http://www.codehs.com/)
+
+### Books
+* [Super Scratch Programming Adventure!: Learn to Program By Making Cool Games ](http://www.amazon.com/Super-Scratch-Programming-Adventure-Program/dp/1593274092/ref=pd_bxgy_b_img_z)
+* [Invent Your Own Computer Games with Python](http://www.amazon.com/Invent-Computer-Games-Python-Edition/dp/0982106017/)
+* [Land of Lisp](http://landoflisp.com/)
+* [Python for Kids](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
+* [Hello World! Computer Programming for Kids and Other Beginners](http://www.amazon.com/Hello-World-Computer-Programming-Beginners/dp/1933988495)
+* [Learn to Program Ruby](http://www.amazon.com/Program-Second-Edition-Facets-Series/dp/1934356360/)
+
+### Minecraft
+* [ScriptCraft: Building cool things using Javascript in Minecraft](http://walterhiggins.net/blog/ScriptCraft) [official website](http://scriptcraftjs.org/) (Higgins)
+
+### Programming Games
+* [FightCode: program javascript virtual robots](http://fightcodegame.com/)
+* [Nessbots: a robot coding game. 3d tanks](http://www.nessbots.com/welcome/)
+* [RoboCode: build battle robots. 2d tanks](http://robocode.sourceforge.net/)
+* [Code And Conquer](http://codeandconquer.co/)
+
