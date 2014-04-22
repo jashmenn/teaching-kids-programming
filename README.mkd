@@ -54,7 +54,14 @@ Another trend I'm noticing is that all of my nephews/nieces (age 8-15) want to b
 * [Stencyl](http://www.stencyl.com/) `Mac`
 
 #### Traditional Environment
-* [Construct 2](https://www.scirra.com/construct2)
+* [Scirra Construct 2](https://www.scirra.com/construct2)
+* [Phaser](http://phaser.io/)
+* [Kiwi.js](http://www.kiwijs.org/)
+* [Quintus](http://html5quintus.com/)
+* [LimeJS](http://www.limejs.com/)
+* [ImpactJS](http://impactjs.com/)
+* [GameClosure](http://www.gameclosure.com/)
+* [CreateJS](http://createjs.com/#!/CreateJS)
 
 ### Programming Environments
 * [Scratch](http://scratch.mit.edu/)
